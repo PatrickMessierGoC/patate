@@ -1,3 +1,8 @@
 Bonjour
-Voici
-du texte.
+Ligne 1 - Voici du texte.
+Ligne 2 - Voici du texte.
+Ligne 3 - Voici du texte.
+Ligne 4 - Voici du texte.
+Ligne 5 - Voici du texte.
+Ligne 6 - Voici du texte.
+Merci.
